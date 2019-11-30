@@ -1,0 +1,17 @@
+# Site settings
+title: Natsume's Hidden Stash
+description: Nothing to see here
+url: "https://NatsumeLS.github.io/"
+
+# User settings
+username: NatsumeLS
+user_description: Pain, Pain, Go Away ^^
+user_title: Welcome to my little site
+email: NatsumeLS@outlook.com
+twitter_username: NatsumeLS
+github_username:  NatsumeLS
+gplus_username:  NatsumeLS
+
+# Google-analytics
+google-analytics:
+  id: "UA-153531710-1"
