@@ -3618,3 +3618,18 @@ sub,sup{
 	margin:0;
 	color:#fff
 }
+.help{
+	width:90%;
+	max-width:960px;
+	margin:0 auto
+}
+.commands {
+	font-size:14px;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 15px;
+}
