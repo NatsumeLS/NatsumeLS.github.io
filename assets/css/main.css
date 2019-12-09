@@ -3529,6 +3529,14 @@ sub,sup{
 	text-align:center;
 	margin:5px auto
 }
+#pub-bots{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-between;
+	width:90%;
+	max-width:960px;
+	margin:0 auto
+}
 #projects{
 	display:flex;
 	flex-direction:column;
