@@ -15,3 +15,6 @@ gplus_username:  NatsumeLS
 # Google-analytics
 google-analytics:
   id: "UA-153531710-1"
+
+plugins:
+  - jekyll-admin
